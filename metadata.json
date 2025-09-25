@@ -1,0 +1,7 @@
+{
+  "name": "CityTransit Live",
+  "description": "A modern web application for real-time public transport tracking, scheduling, and ticket booking in small cities, featuring a simulated Aadhaar-based login and a chatbot interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
